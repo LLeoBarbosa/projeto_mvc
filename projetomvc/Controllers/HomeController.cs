@@ -31,6 +31,12 @@ namespace projetomvc.Controllers
             return View();
         }
 
+        public IActionResult Portifolio()
+        {
+            return View();
+        }
+
+
         public IActionResult Privacy()
         {
             return View();
